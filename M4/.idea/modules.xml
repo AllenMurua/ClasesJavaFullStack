@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Api/Api.iml" filepath="$PROJECT_DIR$/Api/Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession10/EjercicioSession10.iml" filepath="$PROJECT_DIR$/EjercicioSession10/EjercicioSession10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession13/EjercicioSession13.iml" filepath="$PROJECT_DIR$/EjercicioSession13/EjercicioSession13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession2/EjercicioSession2.iml" filepath="$PROJECT_DIR$/EjercicioSession2/EjercicioSession2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession3/EjercicioSession3.iml" filepath="$PROJECT_DIR$/EjercicioSession3/EjercicioSession3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession4/EjercicioSession4.iml" filepath="$PROJECT_DIR$/EjercicioSession4/EjercicioSession4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession5/EjercicioSession5.iml" filepath="$PROJECT_DIR$/EjercicioSession5/EjercicioSession5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession6/EjercicioSession6.iml" filepath="$PROJECT_DIR$/EjercicioSession6/EjercicioSession6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession7/EjercicioSession7.iml" filepath="$PROJECT_DIR$/EjercicioSession7/EjercicioSession7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession8/EjercicioSession8.iml" filepath="$PROJECT_DIR$/EjercicioSession8/EjercicioSession8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioSession9/EjercicioSession9.iml" filepath="$PROJECT_DIR$/EjercicioSession9/EjercicioSession9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaSession11/EvaSession11.iml" filepath="$PROJECT_DIR$/EvaSession11/EvaSession11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaSession13/EvaSession13.iml" filepath="$PROJECT_DIR$/EvaSession13/EvaSession13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaSession4/EvaSession4.iml" filepath="$PROJECT_DIR$/EvaSession4/EvaSession4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaSession5/EvaSession5.iml" filepath="$PROJECT_DIR$/EvaSession5/EvaSession5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaSession7/EvaSession7.iml" filepath="$PROJECT_DIR$/EvaSession7/EvaSession7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvaSession9/EvaSession9.iml" filepath="$PROJECT_DIR$/EvaSession9/EvaSession9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Evasession2/Evasession2.iml" filepath="$PROJECT_DIR$/Evasession2/Evasession2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Evasession3/Evasession3.iml" filepath="$PROJECT_DIR$/Evasession3/Evasession3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Evasession6/Evasession6.iml" filepath="$PROJECT_DIR$/Evasession6/Evasession6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Evasession8/Evasession8.iml" filepath="$PROJECT_DIR$/Evasession8/Evasession8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M4.iml" filepath="$PROJECT_DIR$/M4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session12/Session12.iml" filepath="$PROJECT_DIR$/Session12/Session12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evaSession1/evaSession1.iml" filepath="$PROJECT_DIR$/evaSession1/evaSession1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+    </modules>
+  </component>
+</project>
