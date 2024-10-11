@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="enviados">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/M2/enviados/ActividadCSS.zip!/" />
+      <root url="jar://$PROJECT_DIR$/M2/enviados/ActividadSesion4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/M2/enviados/bootstrap-5.0.2-dist.zip!/" />
+      <root url="jar://$PROJECT_DIR$/M2/enviados/Actividad1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/M2/enviados/ActividadFormulario.zip!/" />
+      <root url="jar://$PROJECT_DIR$/M2/enviados/ActividadSesion4 (2).zip!/" />
+      <root url="jar://$PROJECT_DIR$/M2/enviados/Actividad2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
